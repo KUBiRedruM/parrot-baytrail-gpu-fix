@@ -60,7 +60,7 @@ Checking `/proc/cmdline` confirmed `nomodeset` was **not** present and kernel fl
 
 ## Installation
 ```bash
-git clone https://github.com
+git clone https://github.com/KUBiRedruM/parrot-baytrail-gpu-fix.git
 cd parrot-baytrail-gpu-fix
 chmod +x install.sh
 ./install.sh
